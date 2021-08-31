@@ -1,1 +1,3 @@
-# ParcialProgramacion
+# TALLER INDIVIDUAL
+## LEIDY XIMENA PENAGOS MARTINEZ
+## 
